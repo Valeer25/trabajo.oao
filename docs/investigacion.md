@@ -1,7 +1,3 @@
-# trabajo.oao
-trabajo orientado a objeto
-
-investigacion 
 1. Sobreescritura de Métodos
 
 ¿Qué es?
